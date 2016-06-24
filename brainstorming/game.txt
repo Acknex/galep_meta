@@ -19,6 +19,7 @@ Optik
 Gegner
 
 - "Fasswerfer", spawnt Fässer als Hindernsise und flieht vor Spieler
+Bewegt sich per random um den Pfad
 
 
 Objekte
@@ -30,3 +31,18 @@ Objekte
 - Fledermäuse / Behindern Sicht
 - Fallen!? / verlangsamen oder Stoppen Spieler?
 - Jetpack / Boost, ++Geschwindigkeit für gewisse Zeit
+
+
+Stats
+
+- Lebensenergie
+- Geschwindigkeit
+- Schussstärke
+- Powerups?
+
+Level Laden
+- level_start()
+- level_restart()
+- level_stop()
+
+
