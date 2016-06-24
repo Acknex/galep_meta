@@ -1,0 +1,32 @@
+JCL and the Guardians of the GALEP
+
+Story
+
+
+Gameplay
+
+- Railshooter, Bewegung entlang Pfad
+- Ausweichen in vier Richtungen
+- Geschwindigkeit wird vorgegeben?
+- Power Ups?
+- Gegner, sammelbare Objekte, Hindernisse
+
+
+Optik
+
+
+
+Gegner
+
+- "Fasswerfer", spawnt Fässer als Hindernsise und flieht vor Spieler
+
+
+Objekte
+
+- Steine / Hindernis
+- Fässer / Hindernis
+- A3 Packungen / Power Ups?
+- A4 Würfel / Punkte, Extraleben, SCheiß?
+- Fledermäuse / Behindern Sicht
+- Fallen!? / verlangsamen oder Stoppen Spieler?
+- Jetpack / Boost, ++Geschwindigkeit für gewisse Zeit
